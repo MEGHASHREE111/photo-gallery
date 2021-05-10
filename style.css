@@ -1,0 +1,19 @@
+body {
+    background: salmon;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-family: sans-serif;
+}
+
+#pics{
+    width: 222px;
+    margin-left: 20;
+}
+#picture{
+    width: 222px;
+    margin-left: 20;
+    height: 177px;
+}
